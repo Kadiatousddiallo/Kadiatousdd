@@ -37,7 +37,7 @@
 
 ### 🔗 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="[https://www.linkedin.com/" target="_blank](https://www.linkedin.com/in/kadiatou-sadio-diallo-a1b478320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 </p>
 
 ---
